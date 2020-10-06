@@ -1,0 +1,12 @@
+﻿  AwardWinners.cpp
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C3867:  'std::vector<std::string,std::allocator<_Ty>>::size': non-standard syntax; use '&' to create a pointer to member
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C3867:         with
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C3867:         [
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C3867:             _Ty=std::string
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C3867:         ]
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C2446:  '<': no conversion from 'unsigned __int64 (__cdecl std::vector<std::string,std::allocator<_Ty>>::* )(void) noexcept const' to 'int'
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C2446:         with
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C2446:         [
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C2446:             _Ty=std::string
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,33): error C2446:         ]
+C:\Users\abiga\Downloads\CS245-F2020-Lab-02-master\CS245-F2020-Lab-02-master\AwardWinners\AwardWinners.cpp(42,29): message :  There is no context in which this conversion is possible
